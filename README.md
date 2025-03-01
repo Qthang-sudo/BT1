@@ -4,5 +4,5 @@ Sau khi học xong môn học, tôi mong muốn có thể phát triển các ứ
 BT2:
 Trong tương lai gần, lập trình di động sẽ tiếp tục phát triển mạnh mẽ. Với sự gia tăng của các thiết bị di động và nhu cầu sử dụng ứng dụng di động trong mọi lĩnh vực, từ giải trí đến giáo dục và y tế, lập trình di động sẽ trở thành một kỹ năng quan trọng. Ngoài ra, sự phát triển của công nghệ như AI, IoT và 5G sẽ thúc đẩy sự đổi mới trong lĩnh vực này.
 BT3:
+![image](https://github.com/user-attachments/assets/535ff801-77e4-47c6-828a-d9f407c02569)
 
-![image](https://github.com/user-attachments/assets/bc8aad7d-ee7f-45c2-82f4-1db473af533a)
